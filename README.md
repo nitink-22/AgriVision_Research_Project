@@ -229,7 +229,4 @@ If you find this benchmark, code, or experimental findings useful in your resear
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — free for educational, research, and non-commercial development.
 
