@@ -1,0 +1,4 @@
+Model,Total Params (M),Batch-1 Latency (ms),Throughput (img/sec),Peak VRAM (MB)
+ResNet-50,23.59,6.59,151.7,151.04
+MobileNetV2,2.27,4.97,201.2,150.23
+EfficientNet-B0,4.06,8.16,122.6,150.23

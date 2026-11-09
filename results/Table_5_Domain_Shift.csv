@@ -1,0 +1,4 @@
+Model Architecture,PlantVillage Macro-F1 (Lab %),PlantDoc Macro-F1 (Field %),Absolute Drop (%)
+ResNet-50,96.0,13.18,82.82
+MobileNetV2,94.0,14.7,79.3
+EfficientNet-B0,95.0,10.1,84.9
